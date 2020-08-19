@@ -4,7 +4,7 @@
 	
 	<groupId>com.mt</groupId>
 	<artifactId>simple-ping-manager</artifactId>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<version>3.0.0-SNAPSHOT</version>
 	
 	<name>simple-ping-manager</name>
